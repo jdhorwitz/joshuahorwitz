@@ -1,14 +1,11 @@
-siteTitle = "Blog by John Doe"
-siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-siteAuthor = "John Doe"
+siteTitle = "REACTing to Rust"
+siteDescr = "Experiences in React and Rust"
+siteAuthor = "Josh Horwitz"
 
-siteTelegramUrl = "#"
-siteTwitterUrl = "#"
-siteGithubUrl = "#"
-siteEmailUrl = "#"
-siteRssUrl = "#"
-siteVkUrl = "#"
+siteTwitterUrl = "http://www.twitter.com/jdhorwitz"
+siteGithubUrl = "http://www.github.com/jdhorwitz"
+siteEmailUrl = "mailto:jhorwitz@protonmail.ch"
 
 googleAnalyticsId = ""
 
-linkPrefix = "/gatsby-starter-lumen"
+linkPrefix = "/"
